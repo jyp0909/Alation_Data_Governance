@@ -1,18 +1,22 @@
-# Alation_Data_Governance demo
+# Alation Data Governance demo
 ## Demo 
 ### Start
   [Demo Link](https://app.getreprise.com/launch/1yQg19n/, "Demo Link")   
   
-<img src="https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/78cd7c85-0bd3-4482-aa36-3e498ad4e2cd" width="800" height="500">
+<img src="https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/78cd7c85-0bd3-4482-aa36-3e498ad4e2cd" width="1000" height="600">
 
 ***
 ### Policy Center
+  - 정책 센터에서 Data Governance 관련 규칙 설정
+    
 ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/915c043f-640f-4be2-8f4c-e60c56d23963)
 
 ***
 ### Policy Groups
-![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/72a1eb53-57f9-4959-b26a-42909dedf877)
-![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/83001f68-c4d6-4644-9dc8-21518a8b62f4)
+  - 개인 정보 또는 글로벌 개인 정보 보호 정책 등과 같은 정책 그룹 생성 
+    
+    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/72a1eb53-57f9-4959-b26a-42909dedf877)
+    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/83001f68-c4d6-4644-9dc8-21518a8b62f4)
 
 ***
 ### Personal Data Handling
@@ -47,3 +51,14 @@
     ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/4b510005-e81b-4003-8621-a0a43b60bf9c)
 
 ****
+### Demo 체험 리뷰
+- **좋았던 점**
+  - 직관적인 UI 구성
+  - 정책 설정 시 SQL을 활용하여 세부적인 예외 규칙까지 적용가능
+  - 정책 설정 후 다른 데이터셋에도 적용 가능
+  - 한 번에 여러개의 정책 업데이트 가능
+    
+- **아쉬웠던 점**
+  - Hands-on 지원을 하지않아 Demo만으로는 상세 기능 파악에 한계가 있음
+  - 
+  - 
