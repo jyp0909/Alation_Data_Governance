@@ -20,12 +20,12 @@
 
 ***
 ### Personal Data Handling
-  - 정책 그룹 내에서 특정 정책 추가 가능
+  - 정책 그룹 내에서 특정 정책 추가 및 관리
     ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/7a16a0b2-23cc-4c04-89d8-0fa328abadce)
 
 ***
 ### Personal Data Protection Policy
-  - 특정 정책 내용 수정
+  - 특정 정책에 대한 내용 수정
     ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/807acfbb-d983-4f99-94e8-64bc9e4032ec)
     ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/9abddea2-205a-451e-aa73-eb7a7708a67e)
   - 연관 데이터의 테이블 및 컬럼 항목 설정
@@ -33,24 +33,34 @@
 
 ***
 ### Personal Data Handling
-![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/0b857e1a-0936-4c12-8077-24e2d732b5fb)
+  - 개인 데이터 핸들링 정책 그룹에서 설정된 정책의 세부항목 추가 및 수정
+    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/0b857e1a-0936-4c12-8077-24e2d732b5fb)
   - #### CUST_NAME_MASK
-    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/293e0963-a872-41e7-8d15-88d4a3375998)    
+    - 고객명 마스킹
+    - 개인정보 등이 포함된 특정 컬럼에 대해 비식별 처리
+      ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/293e0963-a872-41e7-8d15-88d4a3375998)    
   - #### Data Managed by This Policy
-    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/8b8f6dbe-f852-407c-8c3e-3f276b30eeed)
+    - 해당 정책에 의해 데이터가 관리됨
+      ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/8b8f6dbe-f852-407c-8c3e-3f276b30eeed)
   - #### SQL Rules
-    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/ede1c15d-3b8b-4e6b-86e9-afbaff8f713f)
+    - SQL로 세부적인 예외 규칙까지 설정 가능
+      ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/ede1c15d-3b8b-4e6b-86e9-afbaff8f713f)
   - #### Reduce IT Costs
-    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/907abe65-59f6-4c3d-84c2-a24e9e3eb5b8)
+    - 권한이 있는 관리자가 추가 정책 생성 가능
+    - 권한을 부여받은 관리자가 별도의 작업 생성 필요없이 바로 관리창에서 First name masking 과 같은 정책 생성 가능
+      ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/907abe65-59f6-4c3d-84c2-a24e9e3eb5b8)
   - #### Simple to apply
-    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/3a99a1b3-e20f-4e64-8439-1b176d50a331)
+    - 간단하게 기존에 생성했던 정책들을 불러와 적용가능
+      ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/3a99a1b3-e20f-4e64-8439-1b176d50a331)
   - #### Protected data
-    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/288e6c30-e6b1-4bea-96ea-7c6e731722f2)
-    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/5bb7ebf2-fb23-4e2f-86b9-dffb7363eadc)
+    - 설정한 정책이 해당 데이터에 알맞게 적용되었는지 확인 가능
+      ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/288e6c30-e6b1-4bea-96ea-7c6e731722f2)
+      ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/5bb7ebf2-fb23-4e2f-86b9-dffb7363eadc)
   - #### Filtering policies
-    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/d501ea99-5c4e-463d-8832-9412915f496c)
+    - 원하는 정책만 필터링
+      ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/d501ea99-5c4e-463d-8832-9412915f496c)
   - #### Bulk updates
-    - 여러개 동시에 업데이트
+    - 동시에 여러개의 정책 업데이트 가능
     ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/4b510005-e81b-4003-8621-a0a43b60bf9c)
 
 ****
