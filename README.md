@@ -47,7 +47,7 @@
       ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/ede1c15d-3b8b-4e6b-86e9-afbaff8f713f)
   - #### Reduce IT Costs
     - 권한이 있는 관리자가 추가 정책 생성 가능
-    - 권한을 부여받은 관리자가 별도의 작업 생성 필요없이 바로 관리창에서 First name masking 과 같은 정책 생성 가능
+    - 권한을 부여받은 관리자가 별도의 작업 생성 필요없이 바로 관리창에서 First name masking 과 같은 추가 정책 생성 가능
       ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/907abe65-59f6-4c3d-84c2-a24e9e3eb5b8)
   - #### Simple to apply
     - 간단하게 기존에 생성했던 정책들을 불러와 적용가능
