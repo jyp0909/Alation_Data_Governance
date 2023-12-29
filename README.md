@@ -20,13 +20,16 @@
 
 ***
 ### Personal Data Handling
-![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/7a16a0b2-23cc-4c04-89d8-0fa328abadce)
+  - 정책 그룹 내에서 특정 정책 추가 가능
+    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/7a16a0b2-23cc-4c04-89d8-0fa328abadce)
 
 ***
 ### Personal Data Protection Policy
-![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/807acfbb-d983-4f99-94e8-64bc9e4032ec)
-![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/9abddea2-205a-451e-aa73-eb7a7708a67e)
-![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/30ab9bda-e535-4dd9-bc17-28cbe80c3bab)
+  - 특정 정책 내용 수정
+    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/807acfbb-d983-4f99-94e8-64bc9e4032ec)
+    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/9abddea2-205a-451e-aa73-eb7a7708a67e)
+  - 연관 데이터의 테이블 및 컬럼 항목 설정
+    ![image](https://github.com/jyp0909/Alation_Data_Governance/assets/19907193/30ab9bda-e535-4dd9-bc17-28cbe80c3bab)
 
 ***
 ### Personal Data Handling
